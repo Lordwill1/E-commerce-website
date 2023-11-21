@@ -1,2 +1,3 @@
 # E-COMMERCE WEBSITE
-In progress ...
+
+https://lordwill1.github.io/E-commerce-website/
